@@ -39,7 +39,7 @@
 1. Вывод активных вакансий вакансии:
 
     ```sql
-    SELECT * DROM jobs WHERE is_active = true; 
+    SELECT * FROM jobs WHERE is_active = true; 
     ```
 
 2. Добавление новой вакансии:
